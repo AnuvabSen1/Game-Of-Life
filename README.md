@@ -1,4 +1,4 @@
-# GameOfLife
+# Game Of Life
 John Horton Conway's Game of Life Simulation
 
 ### Requirements
@@ -11,4 +11,4 @@ John Horton Conway's Game of Life Simulation
         "Space"           : to Pause the simulation
         "Mouse Left Click": to draw on the grid
 
-## Indian School of Celulluar Automata
+## Indian School of Celulluar Automata - Assignment 1
